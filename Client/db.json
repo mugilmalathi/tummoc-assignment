@@ -1,0 +1,36 @@
+{
+  "city": [
+    {
+      "_id": "632c5a739502bbec39365a43",
+      "city_name": "Chennai",
+      "city_location": "TN",
+      "logo": null,
+      "pincode": "600001",
+      "state": "Tamilnadu"
+      },
+      {
+      "_id": "632c5a859502bbec39365a45",
+      "city_name": "Dharmapuri",
+      "city_location": "TN",
+      "logo": null,
+      "pincode": "635301",
+      "state": "Tamilnadu"
+      },
+      {
+      "_id": "632c5a8f9502bbec39365a47",
+      "city_name": "Salem",
+      "city_location": "TN",
+      "logo": null,
+      "pincode": "636522",
+      "state": "Tamilnadu"
+      },
+      {
+      "_id": "632c5a9c9502bbec39365a49",
+      "city_name": "Coimbatore",
+      "city_location": "TN",
+      "logo": null,
+      "pincode": "649651",
+      "state": "Tamilnadu"
+      }
+  ]
+}
