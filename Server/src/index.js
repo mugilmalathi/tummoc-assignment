@@ -12,8 +12,10 @@ app.use(express.json());
 mongoose.connect("mongodb://localhost:27017/userAuth")
 
 const userController = require("./controller/user.controller");
+const cityController = require("./controller/city.controller");
 
 app.use("/", userController);
+app.use("/", cityController);
 
 app.listen(8181, async(req, res)=>{
     // await connect();
